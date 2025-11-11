@@ -37,7 +37,7 @@ Q:
   gcc 是什么，cmake,make,meson,ninja又是什么
 A:
   见参考，gcc 是 最基础的编译器，make和ninja是组织编译器编译的工具，cmake和meson则是跨平台组织`组织编译器编译的工具`的工具
-  另外除了 gcc 之外还有其他基础编译器，比如 llvm 的 clang, 还有 tcc 等，当在这里不是我们要涉及的类容
+  另外除了 gcc 之外还有其他基础编译器，比如 llvm 的 clang, 还有 tcc 等，但在这里不是我们要涉及的内容
 ```
 
 
